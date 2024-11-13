@@ -11,6 +11,6 @@
 <!-- - 😄 Pronouns: -->
 - ⚡ Fun fact: I actually doesn't know anything.
 
-- ![May](https://skillicons.dev/icons?i=html,css,javascript,php,wordpress,markdown,github,cloudflare)
+![May](https://skillicons.dev/icons?i=html,css,javascript,php,wordpress,markdown,github,cloudflare)
 
-- ![moecounter](https://count.getloli.com/@nicocat?name=nicocat&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![moecounter](https://count.getloli.com/@nicocat?name=nicocat&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
