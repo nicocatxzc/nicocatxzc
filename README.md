@@ -11,7 +11,7 @@
 <!-- - 😄 Pronouns: -->
 - ⚡ Fun fact: I actually doesn't know anything.
 
-![May](https://skillicons.dev/icons?i=html,css,javascript,sass,nodejs,yarn,vite,vue,pinia,nuxtjs,php,wordpress,markdown,vscode,github,cloudflare,docker)
+![May](https://skillicons.dev/icons?i=html,css,javascript,sass,nodejs,pnpm,yarn,vite,vue,pinia,nuxtjs,php,wordpress,markdown,vscode,github,cloudflare,docker)
 <img style="border-radius: 18%;margin-left:10px;" src="https://webstatic.hoyoverse.com/upload/op-public/2022/02/08/1c77d507474b5a773ef9741ff9d840f0_3137699483331373888.jpeg" width="6.7%">
 <img style="border-radius: 18%;margin-left:10px;" src="https://i0.hdslb.com/bfs/face/f2635e09fe667d4ad29229c6ed0b5f4bdea09bd1.jpg" width="6.7%">
 <img style="border-radius: 18%;margin-left:10px;" src="https://i1.hdslb.com/bfs/face/5ddddba98f0265265662a8f7d5383e528a98412b.jpg" width="6.7%">
