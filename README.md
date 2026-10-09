@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about "I donot know"
-- 📫 How to reach me: [兰啦罗@bilibili](https://space.bilibili.com/413110087)
+- 📫 How to reach me: [nicocat.cc](https://nicocat.cc)
 <!-- - 😄 Pronouns: -->
 - ⚡ Fun fact: I actually doesn't know anything.
 
